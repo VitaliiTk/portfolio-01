@@ -24,7 +24,7 @@ body {
 }
 
 .inner-flex {
-    height: 100svh;
+    height: 100dvh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
